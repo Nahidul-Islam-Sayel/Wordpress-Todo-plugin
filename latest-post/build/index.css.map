@@ -1,1 +1,1 @@
-{"version":3,"file":"index.css","mappings":";;;AAAA;EACC;AACD,C","sources":["webpack://latest-post/./src/editor.scss"],"sourcesContent":[".wp-block-create-block-latest-post {\n\tborder: 1px dotted #f00;\n}\n"],"names":[],"sourceRoot":""}
+{"version":3,"file":"index.css","mappings":";;;AAAA;EACC;AACD,C","sources":["webpack://latest-post/./src/editor.scss"],"sourcesContent":[".wp-block-create-block-latest-post{\n\tborder: 1px dotted #f03;\n}"],"names":[],"sourceRoot":""}
